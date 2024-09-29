@@ -3,13 +3,14 @@ This project is a comprehensive sales analysis of Adidas, created using Power BI
 
 # Key Features:
 
-Total Sales: Displays overall sales, operating profit, price per unit, operating margin, and units sold.
-Sales Trends: Visualizes total sales month by month, allowing users to observe sales performance fluctuations.
-Geographical Analysis: Maps total sales by state, giving a regional perspective on where the brand performs best across the US.
-Sales by Region: A pie chart breaks down sales by major US regions (West, Northeast, Southeast, South, Midwest).
-Sales by Product: Bar chart showing sales performance of different product categories such as Men's and Women's apparel, footwear, and athletic gear.
-Retailer Insights: Highlights the top retailers contributing to Adidas' sales, including West Gear, Foot Locker, and Sports Direct.
-Tools & Technologies:
+- Total Sales: Displays overall sales, operating profit, price per unit, operating margin, and units sold.
+- Sales Trends: Visualizes total sales month by month, allowing users to observe sales performance fluctuations.
+- Geographical Analysis: Maps total sales by state, giving a regional perspective on where the brand performs best across the US.
+- Sales by Region: A pie chart breaks down sales by major US regions (West, Northeast, Southeast, South, Midwest).
+- Sales by Product: Bar chart showing sales performance of different product categories such as Men's and Women's apparel, footwear, and athletic gear.
+- Retailer Insights: Highlights the top retailers contributing to Adidas' sales, including West Gear, Foot Locker, and Sports Direct.
+
+# Tools & Technologies:
 - Power BI: Used for data visualization, interactive filtering, and analysis.
 - Data Sources: Sales data from 2020 to 2021.
 Interactive Filtering: Users can filter data by region and invoice date for more customized insights.
